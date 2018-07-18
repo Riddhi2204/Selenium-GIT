@@ -1,0 +1,16 @@
+2018-07-18 10:19:49,469 - LoggingExample - ERROR - File Not Found
+java.io.FileNotFoundException: C:\Carrefour\Training 16th July\NewyyyyyPage.html (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at log4jPackage.loggingSample.main(loggingSample.java:22)
+2018-07-18 10:19:49,469 - LoggingExample - WARN - This is a warning message
+2018-07-18 10:24:46,205 - LoggingExample - ERROR - File Not Found
+java.io.FileNotFoundException: C:\Carrefour\Training 16th July\NewhgghPage.html (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at log4jPackage.loggingSample.main(loggingSample.java:22)
+2018-07-18 10:24:46,221 - LoggingExample - WARN - This is a warning message
